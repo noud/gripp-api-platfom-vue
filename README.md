@@ -1,6 +1,6 @@
 # Gripp client Vue
 
-![Gripp client Vue](./docs/gripp_client_rvue.png?raw=true "Gripp client Vue")
+![Gripp client Vue](./docs/gripp_client_vue.png?raw=true "Gripp client Vue")
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/noud/gripp_client_vue/master/LICENSE)
 [![master](https://img.shields.io/badge/current-dev-aa11ff.svg)](https://github.com/noud/gripp_client_vue/releases)
