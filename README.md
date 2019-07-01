@@ -27,7 +27,7 @@ For instance use an existing Docker workspace. :
 ```bash
 cd laradock && docker-compose exec --user=laradock workspace bash
 ```
-Provision the app with JavaScript Node.js NPM & YARN packages.:
+Provision the app with JavaScript NPM & YARN packages.:
 ```bash
 cd gripp_client_vue && bin/provision.sh
 ```
