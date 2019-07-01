@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@vue/cli-init": "^3.8.0"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
