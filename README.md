@@ -54,7 +54,5 @@ Feel free to contribute.
 
 ## Tools
 
-Created with [Vue in Eclipse](https://www.genuitec.com/tech/vue-in-eclipse)
- ([Eclipse Marketplace](https://marketplace.eclipse.org/content/vuejs-codemix?mpc=true&mpc_state=))   
-
+Created with [Vue in Eclipse](https://www.genuitec.com/tech/vue-in-eclipse) ([Eclipse Marketplace](https://marketplace.eclipse.org/content/vuejs-codemix?mpc=true&mpc_state=))   
 [Eclipse](https://www.eclipse.org/) is free open-source project that grows with your contributions.
