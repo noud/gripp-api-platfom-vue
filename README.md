@@ -7,7 +7,7 @@
 
 This is a [Vue](https://vuejs.org/) [Single-page application (SPA)](https://en.wikipedia.org/wiki/Single-page_application) that does work with
 
-[Gripp client Symfony](https://github.com/noud/gripp_client_symfony/blob/master/README.md)
+[Gripp Symfony](https://github.com/noud/gripp_symfony/blob/master/README.md)
 
 and demonstrate [API-First](https://swagger.io/resources/articles/adopting-an-api-first-approach/) development to facilitate a [Rapid-application development (RAD)](https://en.wikipedia.org/wiki/Rapid_application_development) process.
 
@@ -31,7 +31,7 @@ Provision the app with JavaScript NPM & YARN packages.:
 ```bash
 cd gripp_client_vue && bin/provision.sh
 ```
-Add url to your [Gripp client Symfony](https://github.com/noud/gripp_client_symfony/blob/master/README.md) .env.local file.:
+Add url to your [Gripp Symfony](https://github.com/noud/gripp_symfony/blob/master/README.md) .env.local file.:
 ```bash
 CORS_ALLOW_ORIGIN=^http://app.gripp.localhost(:[0-9]+)?$
 ```
